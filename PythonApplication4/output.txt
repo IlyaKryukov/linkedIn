@@ -1,0 +1,33 @@
+{
+    "roman-alferov-911a6b91": {
+        "friend_count": "78 отслеживающих",
+        "photo_link": "https://media-exp1.licdn.com/dms/image/C4E03AQEYkRfRnVNYTA/profile-displayphoto-shrink_200_200/0/1574170921464?e=1622678400&v=beta&t=xg7HTxFv_9PdmrDS9F-bE0ajtl1yrGbwRNyAIxHk_eI",
+        "common": "none",
+        "work_experience": "6 г. 6 мес.",
+        "education": {
+            "Ярославский Государственный Университет им. П.Г. Демидова (ЯрГУ)": {
+                "type": "University",
+                "dt_start": "2012 ",
+                "dt_end": " 2018",
+                "name": "Ярославский Государственный Университет им. П.Г. Демидова (ЯрГУ)",
+                "description": "Computer security specialist, Computer Security"
+            }
+        },
+        "works": {
+            "Информзащита": {
+                "dt_start": "март 2018 г. ",
+                "dt_end": "настоящее время",
+                "name": "Информзащита",
+                "description": "Penetration tester"
+            },
+            "ООО \"Стандарт безопасности\"": {
+                "dt_start": "нояб. 2014 г. ",
+                "dt_end": "март 2018 г.",
+                "name": "ООО \"Стандарт безопасности\"",
+                "description": "Information Security Engineer"
+            }
+        },
+        "skills": "none",
+        "interests": "none"
+    }
+}
